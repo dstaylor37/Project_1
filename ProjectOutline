@@ -1,0 +1,20 @@
+Project outline
+	Project title 
+		"Dude… where's my car?" Working title
+	Team members
+		Geyang Yang, Swaribha Garg and Dann Taylor
+	Project outline
+		Determining where towed cars go within the city of Chicago impound lots
+	Research questions to ask
+		What difference if any does the day of week have on towing?
+		What impact do holidays have?
+		Make and model make a difference?
+		Location (street address) to which cars are towed
+		Profile of car most likely to be towed
+		Breakdown by State License
+	Data sets to be used
+		Chicago Towed Vehicles - https://www.kaggle.com/chicago/chicago-towed-vehicles
+	Rough breakdown of tasks
+		1) Clean the data
+		2) One graph per question
+		3) Map tow facility location
